@@ -60,7 +60,7 @@ We encourage everyone to contribute to these guidelines! They should evolve with
 
 - **Questions?** Open a [discussion](../../discussions)
 - **Found an issue?** Create an [issue](../../issues)
-- **Need clarification?** Ask in `#dev-standards` Slack channel
+- **Need clarification?** Ask in `#dev` channel
 
 ---
 
