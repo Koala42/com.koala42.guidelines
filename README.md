@@ -18,8 +18,8 @@ Welcome to the KOALA42 Guidelines repository! This is the single source of truth
 
 | Guideline                                        | Description                                          | Status    |
 | ------------------------------------------------ | ---------------------------------------------------- | --------- |
-| [**Git Workflow**](./guidelines/git-workflow.md) | Branching strategy, commit messages, and CI pipeline | 🟡 Draft |
-| [**Code Review**](./guidelines/code-review.md)   | PR process, review lifecycle, and quality standards  | 🟡 Draft |
+| [**Git Workflow**](./guidelines/git-workflow.md) | Branching strategy, commit messages, and CI pipeline | 🟢 Active |
+| [**Code Review**](./guidelines/code-review.md)   | PR process, review lifecycle, and quality standards  | 🟢 Active |
 | [**Frontend code bible**]()||⚪ Planned
 | [**Backend code bible**]()||⚪ Planned
 
